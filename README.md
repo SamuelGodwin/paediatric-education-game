@@ -1,17 +1,15 @@
-# PumpkinSpice: Paediatric Education Game 
+# Paediatric Education Game 
 
 Client: Nuclear Medicine Department of the Chelsea & Westminster Hospital
 
 Members:
-- Anttoni Pykalisto
+- Samuel Godwin
 - Sean Seeds
+- Anttoni Pykalisto
 - Anda Lapuste
 - Daniel Jiang
 - Rihem Ghebache
 - Ryan Hill
-- Samuel Godwin
-
-Making educational games for kids since 2017
 
 ****
 
