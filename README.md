@@ -1,5 +1,7 @@
 # Paediatric Education Game 
 
+![](./pumpkinGame.gif)
+
 Run pumpkinGame.gproj in Gideros.
 
 Client: Nuclear Medicine Department of the Chelsea & Westminster Hospital
